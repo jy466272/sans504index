@@ -1,0 +1,60 @@
+Hey everyone! Wanted to share with anyone studying or thinking about taking the GIAC GCIH test the index I used for passing it. 
+Format will be:
+Topic - Page Number
+
+504.1
+PICERL - 18
+DAIR - 20
+Velociraptor - 25
+ps1 Basics - 37
+Sysinternals - 53
+Tcpdump - 61
+BPF - 63
+Squid Proxy - 65
+Volatility - 71
+Regshot - 87
+Procmon - 89
+
+504.2
+whois - 19
+Certificate Transparency - 21
+SpiderFoot - 24
+DNS/DNS Zone Transfer - 33
+Exitfool/CeWL - 41
+Nmap - 49
+Port Scanning - 56
+Cloud Scanning/Enum - 69
+Masscan - 70
+EyeWitness - 75
+SMB - 83
+SMBeagle - 85
+DeepBlueCLI - 99
+
+504.3
+THC Hydra - 6
+MSOLSpray - 15
+Azure Smart Lockout - 16
+MFASweep - 19
+NTDS.dit - 29
+John - 42
+Hashcat - 47
+Cloud Storage - 65
+Netcat - 79
+
+504.4
+Metasploit - 7
+Drive-By-Attack - 17
+Watering Hole Attack - 19
+BeEF - 25
+MsfVenom - 27
+SRUM - 35
+
+504.5
+Pivoting - 19
+SSH - 21
+netsh - 22
+Responder - 28
+WMI - 37
+Golden Ticket - 39
+RITA - 49
+CloudMapper/ScoutSuite - 76/77
